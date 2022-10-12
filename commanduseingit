@@ -1,0 +1,123 @@
+q
+  1  which git
+    2  go to google
+    3  yum install git -y
+    4  mkdir tokiogit
+    5  ls
+    6  cd tokiogit
+    7  ls
+    8  pwd
+    9  git init
+   10  which git
+   11  ls
+   12  pwd
+   13  cd tokiogit
+   14  pwd
+   15  git init
+   16  git remote add origin https://github.com/VibhawACS/vibhaw-repo.git
+   17  git pull origin master
+   18  git log
+   19  git show 450cd6111afb6f4a128f3236580db1cbc4776ba7
+   20  cat >>file112
+   21  cat file112
+   22  git status
+   23  git add .
+   24  git status
+   25  git commit  -m "2nd developer work here"
+   26  git status
+   27  git log
+   28  git show 93010331f8aef7f3b318e021bf3d011e4eeeb72d
+   29  git push origin master
+   30  git log
+   31  pwd
+   32  ls
+   33   vi .gitignore
+   34  git add .gitignore
+   35  which git
+   36  cd tokiogit
+   37  pwd
+   38  vi .gitignore
+   39  git add .gitignore
+   40  git commit -m "latest update "
+   41  git status
+   42  touch file.txt, file2.txt, file3.txt
+   43  ls
+   44  touch file4.java file5.css file6.html
+   45  ls
+   46  git status
+   47  git add .
+   48  git status
+   49  git commit -m "my txt file"
+   50  git status
+   51  git log
+   52  git shoe 65081e7b8
+   53  git show 65081e7b8
+   54  git remote add origin https://github.com/VibhawACS/vibhaw-repo.git
+   55  touch .java
+   56  git status
+   57  touch .txt
+   58  git status
+   59  git log
+   60  git log -1
+   61  git log -3
+   62  git log --grep "work"
+   63  git log --grep "file"
+   64  git log --oneline
+   65  git --online
+   66  git log --online
+   67  ls
+   68  cd tokiogit
+   69  pwd
+   70  git log --online
+   71  git log --oneline
+   72  git branch
+   73  git branch branch11
+   74  git branch
+   75  git checkout branch11
+   76  git branch
+   77  ls
+   78  git log --online
+   79  git log --oneline
+   80  git branch br22
+   81  git branch
+   82  cat >branch2file
+   83  git add .
+   84  git commit -m "brach 2 commit"
+   85  git log --oneline
+   86  git checkout mster
+   87  git checkout master
+   88  git log --oneline
+   89  ls
+   90  git checkout branch1
+   91  git checkout branch11
+   92  git >branch11
+   93  git >branch1file
+   94  pwd
+   95  cat >branch1file
+   96  git checkout master
+   97  ls
+   98  git checkout branch11
+   99  git add .
+  100  git status
+  101  git commit -m "check file"
+  102  git checkout master
+  103  ls
+  104  histor
+  105  history
+  106  git branch
+  107  which git
+  108  ls
+  109  cd tokiogit
+  110  pwd
+  111  git branch
+  112  git log --online
+  113  git log --oneline
+  114  git checkout branch11
+  115  git log --oneline
+  116  git merge branch11
+  117  git checkout mster
+  118  git checkout master
+  119  git merge branch11
+  120  git log
+  121  git push origin master
+  122  history
